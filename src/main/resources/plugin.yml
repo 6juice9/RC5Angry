@@ -1,0 +1,6 @@
+name: androidjava
+version: '1.0-SNAPSHOT'
+main: juice.androidjava.Androidjava
+api-version: '1.21'
+commands:
+  angry:
